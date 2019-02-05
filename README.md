@@ -7,3 +7,5 @@
 ベクター画像になります。
 inkscapeというソフトウェアで編集可能です。
 [inkscape 公式サイト](https://inkscape.org/ja/)
+
+# AIファイルは
