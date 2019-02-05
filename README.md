@@ -8,4 +8,7 @@
 inkscapeというソフトウェアで編集可能です。
 [inkscape 公式サイト](https://inkscape.org/ja/)
 
-# AIファイルは
+# AIファイルはAdobe Illustrator CC
+
+無料体験もあるよ！。
+
